@@ -1,4 +1,4 @@
-# 👾 RETRO
+# 👾 Kabinet
 
 Collection of WASM emulators playable on the web.
 
