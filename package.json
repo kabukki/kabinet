@@ -9,9 +9,9 @@
   },
   "scripts": {
     "start": "vite dev",
-    "predeploy": "npm run build",
     "build": "vite build",
-    "deploy": "npm run build && wrangler deploy"
+    "predeploy": "npm run build",
+    "deploy": "wrangler deploy"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
