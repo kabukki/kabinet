@@ -1,6 +1,6 @@
-# 👾 Kabinet
+# 👾 Konsole
 
-Collection of WASM emulators playable on the web.
+Handcrafted retro console emulators, playable in your browser.
 
 ## Overview
 

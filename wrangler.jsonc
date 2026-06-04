@@ -1,9 +1,9 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "kabinet",
+  "name": "konsole",
   "compatibility_date": "2026-05-16",
   "routes": [
-    { "pattern": "kabinet.le-roux.dev", "custom_domain": true }
+    { "pattern": "konsole.le-roux.dev", "custom_domain": true }
   ],
   "assets": {
 		"not_found_handling": "single-page-application"

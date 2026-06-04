@@ -1,11 +1,11 @@
 {
-  "name": "kabinet",
+  "name": "konsole",
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://kabinet.le-roux.dev",
+  "homepage": "https://konsole.le-roux.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kabukki/kabinet"
+    "url": "https://github.com/kabukki/konsole"
   },
   "scripts": {
     "start": "vite dev",
